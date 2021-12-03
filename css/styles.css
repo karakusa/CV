@@ -1,0 +1,56 @@
+body{
+  background-color: #F0FBFF;
+  margin: 0;
+  text-align: center;
+  font-family: Genos;
+}
+
+h1{
+  margin: 0;
+  color: #475053;
+}
+
+h2{
+  margin: 0;
+  color: #2E94B9;
+}
+
+h3{
+  margin: 0;
+  color: #ACDCEE;
+}
+
+.top-container{
+  position: relative;
+  padding-top: 100px;
+}
+
+.top_cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+  width: 100px;
+}
+
+.bottom_cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+  width: 100px;
+}
+
+.main_site_image{
+  width: 250px;
+}
+
+.skill_one_image{
+  width: 200px;
+}
+
+.skill_two_image{
+  width: 200px;
+}
+
+.contact_me_image{
+  width: 200px;
+}
